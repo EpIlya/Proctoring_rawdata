@@ -3,10 +3,14 @@
 Supervisor and main author V. A. Parhomenko, co-author I. A. Epishin. Сopyright © V. A. Parhomenko, I. A. Epishin.
 
 # General Description
-The repository contains raw data collected at four different stages of development.
+The repository contains raw data collected at four different stages of development:
+
 Folders 1 and 2 contain logs collected at the earliest stage, which included only eye tracking, data from approximately 20-30 people in each folder.
+
 Folder 3 contains logs that also include gaze and head tracking, for approximately 30-40 people.
+
 Folder 4 contains logs that include gaze and head tracking, as well as ML model decisions, for approximately 60 people.
+
 The behavior_log files contain cheating logs reported by users and the system.
 The gaze_log files contain the general log, even if the system doesn't question it.
 
